@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+#notificationContainer {
+    max-width: 600px;
+    margin: 0 auto;
+}

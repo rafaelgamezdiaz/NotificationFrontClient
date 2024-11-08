@@ -1,0 +1,21 @@
+{
+  "name": "cliente_notificaciones",
+  "version": "1.0.0",
+  "description": "Cliente independiente para recibir notificaciones en tiempo real desde Laravel",
+  "main": "app.js",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "laravel-echo": "^1.11.3",
+    "pusher-js": "^8.4.0-rc2"
+  },
+  "scripts": {
+    "start": "serve",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
